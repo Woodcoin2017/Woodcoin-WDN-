@@ -1,7 +1,7 @@
 Woodcoin integration/staging tree
 ================================
 
-http://www.woodcoin.org
+http://www.woodcoin.com.br
 
 Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2011-2014 Woodcoin Developers
